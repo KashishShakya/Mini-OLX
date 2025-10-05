@@ -11,12 +11,13 @@ cd Mini-OLX></p>
   cd backend
 <br>
   npm install
-<br>
-  Create a .env file
-  <br>
+</p>
+<h4>
+  Create a .env file</h4>
+  <p>
   PORT=5000<br>
   MONGO_URI & JWT_SECRET
-  <br>
+</p>
   npm start
 </p>
 <h4>Frontend Setup</h4>
